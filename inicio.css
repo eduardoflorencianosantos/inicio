@@ -43,11 +43,10 @@ nav {
   justify-content: space-between;
 }
 
-nav .logo a {
+nav .logo p {
   font-size: 1.5rem;
   font-weight: 600;
   color: #fff;
-  transition: 0.3s;
 }
 
 nav .checkbox {
